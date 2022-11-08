@@ -1,3 +1,3 @@
 languageCode = "en-us"
-theme = ['papermod']
+theme = "papermod"
 title = "My New Netlify Victor Hugo Site"
