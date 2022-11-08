@@ -1,9 +1,0 @@
-languageCode = "en-us"
-theme = "hugo-PaperMod"
-title = "2 - My New Netlify Victor Hugo Site"
-enableRobotsTXT = true
-buildDrafts = false
-buildFuture = false
-buildExpired = false
-
-
